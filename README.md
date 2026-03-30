@@ -19,13 +19,8 @@ I am a passionate Full Stack Developer based in Coimbatore, specializing in buil
 
 **Tools & DevOps:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Mathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathan-VR&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathan-VR&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/mathankumarv/) | [Portfolio](https://github.com/Mathan-VR/Mathan-VR/edit/main/README.md) | [Email](mathankumarvelusamy@gmail.com)
