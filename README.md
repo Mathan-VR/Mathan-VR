@@ -1,4 +1,4 @@
-# Hi, I'm Mathan 👋
+# Hi, I'm MathanKumar 👋
 
 ### Full Stack Developer | MERN Specialist | 7+ Years Experience
 
